@@ -4,6 +4,12 @@
     top: 0px;
 }
 
+#PARAGRAPH33{
+    display: none;
+}
+
+
+
 .text-connect{
     overflow: hidden;
    display: -webkit-box !important;
@@ -22,6 +28,15 @@
 
 
 @media only screen and (min-width: 768px) {
+    .line-1{
+        left: -196px !important;
+    }
+    #PARAGRAPH33{
+        display: block;
+    }
+    .line-2{
+        left: -94px !important;
+    }
     .left-544{
         left: 544px !important;
     }

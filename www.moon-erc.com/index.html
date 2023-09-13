@@ -1458,7 +1458,13 @@
               <div id="HEADLINE4" class="ladi-element">
                 <h3 class="ladi-headline ladi-transition">ABOUT</h3>
               </div>
-              <div data-action="true" id="HEADLINE3" class="ladi-element">
+              <div data-action="true" id="HEADLINE3" class="ladi-element" onclick="chart()">
+                <h3 class="ladi-headline ladi-transition">CHART</h3>
+              </div>
+              <div data-action="true" id="HEADLINE3" class="ladi-element line-2" onclick="buy()">
+                <h3 class="ladi-headline ladi-transition">BUY</h3>
+              </div>
+              <div data-action="true" id="HEADLINE3" class="ladi-element line-1" >
                 <h3 class="ladi-headline ladi-transition">HOME</h3>
               </div>
             </div>
@@ -1498,9 +1504,10 @@
               </div>
             </div></a
           >
-          <div id="PARAGRAPH33" class="ladi-element left-544">
-            <div class="ladi-paragraph">
-              Contract : 0x27156018aE36E0f6e0C54F472c829a7D569634Fe
+          <div id="PARAGRAPH33" class="ladi-element left-544" style="width: 600px;">
+            <div class="ladi-paragraph" style="display: flex; align-items: center;">
+              <span>Contract: 0x27156018aE36E0f6e0C54F472c829a7D569634Fe</span>
+              <img onclick="copyAddress()" style="width: 20px; height: 20px; margin-left: 10px; cursor: pointer;" src="https://flaticons.net/icon.php?slug_category=mobile-application&slug_icon=copy"/>
             </div>
           </div>
           <a
