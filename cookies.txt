@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.moon-erc.com	TRUE	/	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.moon-erc.com	TRUE	/	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.moon-erc.com	TRUE	/	FALSE	1999999999	LADI_DNS_CHECK	2023-09-13 08:20:10.584050731 +0000 UTC m=+2817090.930817469"
+www.moon-erc.com	TRUE	/	FALSE	1999999999	LADI_CLIENT_ID	a643c930-acda-4e71-6a0f-1f01b3e24412
+
